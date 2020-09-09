@@ -1,1 +1,2 @@
-**Projet for EMACS**
+**Emacs project**
+
